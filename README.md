@@ -2,7 +2,7 @@
 🚀 MSc Data Science & AI Student • 💻 Backend & AI Developer • ☁️ Cloud Enthusiast  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryanmoka&label=Profile%20Views&color=blueviolet&style=flat)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanmokashi49) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryanmokashi49)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmokashi28@gmail.com)  
 
 ---
